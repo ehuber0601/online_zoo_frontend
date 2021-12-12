@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body {
+  background: url("https://cdn.wallpapersafari.com/87/75/zZ8xaB.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.animal {
+  text-align: center;
+}
+
+.exhibit {
+  background-color: white;
+}
+
+.descrpition {
+  background-color: white;
+}
+
+img {
+  width: 80%;
+}
+
+@media only screen and (max-width: 900px) {
+  img {
+    width: 80%;
+  }
+
+
+}
